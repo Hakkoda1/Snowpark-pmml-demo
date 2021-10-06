@@ -16,4 +16,4 @@ Located in /model-notebook, contains ipynb notebook where XGB model is trained a
 CSV files used for training and testing are located here too.
 
 ## References
-phData Article developing same project -> (Executing Machine Learning Models In Snowpark)[https://www.phdata.io/blog/executing-ml-models-in-snowpark/]
+phData Article developing same project -> [Executing Machine Learning Models In Snowpark](https://www.phdata.io/blog/executing-ml-models-in-snowpark/)
