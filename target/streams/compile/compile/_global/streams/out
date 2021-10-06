@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/fabioalpizar/Documents/Projects/Snowpark/hello_snowpark/src/main/scala/Main.scala:51:5: not found: value display[0m
+[0m[[0m[31merror[0m] [0m[0m    display(titanic_Df)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
