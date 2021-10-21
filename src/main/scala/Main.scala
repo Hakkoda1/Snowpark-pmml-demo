@@ -76,7 +76,7 @@ object Main {
     })
 
     // Add transformationUDF results as a column to the df
-    titanic_Df.withColumn("Survived", ç(
+    titanic_Df.withColumn("Survived", transformationUDF(
                                                     col("PCLASS"), col("AGE"),
                                                     col("SIBSP"), col("PARCH"),
                                                     col("FARE"),  col("SEX_FEMALE"),
