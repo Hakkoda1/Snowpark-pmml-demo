@@ -3,8 +3,10 @@ Quick demo running Titanic XGB model on Snowpark
 
 ## Versions
 Java: 11.0.12 2021-07-20 LTS
+
 sbt: 1.5.5
-Scala: 2.12.9
+
+Scala: 2.12.11
 
 ## Dependencies
 Located in /lib
