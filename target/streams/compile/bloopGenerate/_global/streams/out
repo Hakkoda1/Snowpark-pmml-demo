@@ -1,4 +1,4 @@
-[debug] [hello_snowpark] Classpath dependencies List()
-[debug] [hello_snowpark] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'hello_snowpark' to '/Users/fabioalpizar/Documents/Projects/Snowpark/hello_snowpark/.bloop/hello_snowpark.json'
-[success] Generated .bloop/hello_snowpark.json
+[debug] [snowpark-pmml-demo] Classpath dependencies List()
+[debug] [snowpark-pmml-demo] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'snowpark-pmml-demo' to '/Users/fabioalpizar/Documents/Projects/Snowpark/Snowpark-pmml-demo/.bloop/snowpark-pmml-demo.json'
+[success] Generated .bloop/snowpark-pmml-demo.json
